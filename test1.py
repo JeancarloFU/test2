@@ -8,3 +8,5 @@ np.max(ii)
 
 #new computations
 np.linspace(10)**2
+
+b=np.min(a)+np.mean(a)
